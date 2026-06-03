@@ -1,6 +1,0 @@
-{
-  "name": "NoteMind AI",
-  "description": "A premium AI knowledge management SaaS and NotebookLM alternative with stunning UI/UX, multi-format sources, citations, studio panel generators, and audio overview podcast.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
